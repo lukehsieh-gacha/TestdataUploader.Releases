@@ -3,5 +3,10 @@
     "version": "1.0.4",
     "url": "https://github.com/lukehsieh-gacha/TestdataUploader.Releases/releases/tag/wpf-v1.0.4",
     "notes": "Checks for a new version at start and offers to open the download page."
+  },
+  "electron": {
+    "version": "0.4.0",
+    "url": "https://github.com/lukehsieh-gacha/TestdataUploader.Releases/releases/tag/electron-v0.4.0",
+    "notes": "Checks for a new version at start and offers to open the download page; light theme backgrounds are tinted teal."
   }
 }

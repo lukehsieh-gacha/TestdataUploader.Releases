@@ -1,8 +1,8 @@
 {
   "wpf": {
-    "version": "1.0.4",
-    "url": "https://github.com/lukehsieh-gacha/TestdataUploader.Releases/releases/tag/wpf-v1.0.4",
-    "notes": "Checks for a new version at start and offers to open the download page."
+    "version": "1.0.5",
+    "url": "https://bigasia.atlassian.net/wiki/x/BQFj-Q",
+    "notes": "Downloads move to the tool's Confluence page (sign-in needed). From 1.0.5 the version check reads that page; this version also adds a File / Help menu bar."
   },
   "electron": {
     "version": "0.4.0",
